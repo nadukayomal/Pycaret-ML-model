@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Coding/ML%20model%20in%20pycaret/mlruns/659612076434979753/503ca3780a3440dbb993a2906a41b711/artifacts
+end_time: 1720965196670
+entry_point_name: ''
+experiment_id: '659612076434979753'
+lifecycle_stage: active
+run_id: 503ca3780a3440dbb993a2906a41b711
+run_name: Decision Tree Regressor
+run_uuid: 503ca3780a3440dbb993a2906a41b711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720965196257
+status: 3
+tags: []
+user_id: HP

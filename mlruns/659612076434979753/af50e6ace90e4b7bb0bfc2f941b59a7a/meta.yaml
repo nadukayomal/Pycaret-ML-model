@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Coding/ML%20model%20in%20pycaret/mlruns/659612076434979753/af50e6ace90e4b7bb0bfc2f941b59a7a/artifacts
+end_time: 1720965198459
+entry_point_name: ''
+experiment_id: '659612076434979753'
+lifecycle_stage: active
+run_id: af50e6ace90e4b7bb0bfc2f941b59a7a
+run_name: Linear Regression
+run_uuid: af50e6ace90e4b7bb0bfc2f941b59a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720965198137
+status: 3
+tags: []
+user_id: HP

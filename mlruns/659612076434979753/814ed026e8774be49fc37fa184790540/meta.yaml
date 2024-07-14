@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Coding/ML%20model%20in%20pycaret/mlruns/659612076434979753/814ed026e8774be49fc37fa184790540/artifacts
+end_time: 1720955701020
+entry_point_name: ''
+experiment_id: '659612076434979753'
+lifecycle_stage: active
+run_id: 814ed026e8774be49fc37fa184790540
+run_name: Random Forest Regressor
+run_uuid: 814ed026e8774be49fc37fa184790540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720955700774
+status: 3
+tags: []
+user_id: HP

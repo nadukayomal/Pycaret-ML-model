@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Coding/ML%20model%20in%20pycaret/mlruns/659612076434979753/a7171f37b5a240f3b13790aa6d29446a/artifacts
+end_time: 1720955820901
+entry_point_name: ''
+experiment_id: '659612076434979753'
+lifecycle_stage: active
+run_id: a7171f37b5a240f3b13790aa6d29446a
+run_name: Light Gradient Boosting Machine
+run_uuid: a7171f37b5a240f3b13790aa6d29446a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720955820234
+status: 3
+tags: []
+user_id: HP

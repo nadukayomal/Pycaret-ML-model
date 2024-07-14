@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Coding/ML%20model%20in%20pycaret/mlruns/659612076434979753/731361d4763f41fda1f8200e1750d5ab/artifacts
+end_time: 1720955702941
+entry_point_name: ''
+experiment_id: '659612076434979753'
+lifecycle_stage: active
+run_id: 731361d4763f41fda1f8200e1750d5ab
+run_name: Ridge Regression
+run_uuid: 731361d4763f41fda1f8200e1750d5ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720955702648
+status: 3
+tags: []
+user_id: HP

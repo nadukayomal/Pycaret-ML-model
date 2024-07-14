@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Coding/ML%20model%20in%20pycaret/mlruns/659612076434979753/eaff1d1e934c45c3947202805330066a/artifacts
+end_time: 1720965200036
+entry_point_name: ''
+experiment_id: '659612076434979753'
+lifecycle_stage: active
+run_id: eaff1d1e934c45c3947202805330066a
+run_name: Orthogonal Matching Pursuit
+run_uuid: eaff1d1e934c45c3947202805330066a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720965199706
+status: 3
+tags: []
+user_id: HP

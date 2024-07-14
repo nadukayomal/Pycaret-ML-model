@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Coding/ML%20model%20in%20pycaret/mlruns/659612076434979753/cc915e62ca974490be8965ea7f988c82/artifacts
+end_time: 1720955705533
+entry_point_name: ''
+experiment_id: '659612076434979753'
+lifecycle_stage: active
+run_id: cc915e62ca974490be8965ea7f988c82
+run_name: K Neighbors Regressor
+run_uuid: cc915e62ca974490be8965ea7f988c82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720955705296
+status: 3
+tags: []
+user_id: HP

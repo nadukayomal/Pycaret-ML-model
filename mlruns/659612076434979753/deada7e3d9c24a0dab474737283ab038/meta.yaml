@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Coding/ML%20model%20in%20pycaret/mlruns/659612076434979753/deada7e3d9c24a0dab474737283ab038/artifacts
+end_time: 1720965198949
+entry_point_name: ''
+experiment_id: '659612076434979753'
+lifecycle_stage: active
+run_id: deada7e3d9c24a0dab474737283ab038
+run_name: Bayesian Ridge
+run_uuid: deada7e3d9c24a0dab474737283ab038
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720965198655
+status: 3
+tags: []
+user_id: HP

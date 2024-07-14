@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Coding/ML%20model%20in%20pycaret/mlruns/659612076434979753/7ed2f2273dde45fe8f7390a2f990fda4/artifacts
+end_time: 1720955707175
+entry_point_name: ''
+experiment_id: '659612076434979753'
+lifecycle_stage: active
+run_id: 7ed2f2273dde45fe8f7390a2f990fda4
+run_name: Dummy Regressor
+run_uuid: 7ed2f2273dde45fe8f7390a2f990fda4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720955706941
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Coding/ML%20model%20in%20pycaret/mlruns/659612076434979753/a69f508f5e8f40249806bb1fbc483ac8/artifacts
+end_time: 1720965199447
+entry_point_name: ''
+experiment_id: '659612076434979753'
+lifecycle_stage: active
+run_id: a69f508f5e8f40249806bb1fbc483ac8
+run_name: AdaBoost Regressor
+run_uuid: a69f508f5e8f40249806bb1fbc483ac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720965199151
+status: 3
+tags: []
+user_id: HP
